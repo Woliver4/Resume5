@@ -1,0 +1,49 @@
+*{
+    margin: 4px; 
+}
+body{
+    border: 5px solid coral;
+}
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue;
+}
+
+ul li {
+    text-decoration: none;
+    color: blueviolet;
+}
+
+.img{
+    align: center;
+
+}
+
+.menu {
+
+ background-color: black; 
+ margin-right: 10px; 
+ width: 200px;
+ height: 200px;
+ padding-top: 20px;
+
+
+
+
+}
+
+.menu h1 {
+color: white;
+ text-align: center;
+}
+
+.border{
+    border: 40px;
+    border-color: blue;
+    
+
+}
+
+.header{
+    background-color: aqua;
+}
